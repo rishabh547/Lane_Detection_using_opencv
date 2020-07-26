@@ -1,6 +1,6 @@
 # Lane_Detection_using_opencv
-In this project ,  Car lanes are detected on a sample road video &amp;  image  by using opencv_techniques and concepts.
-It is done in 3 parts.
+In this project ,  Car lanes are detected on a sample road video &amp;  image  by using opencv_techniques and concepts,
+it is done in 3 parts.
 ### Concepts used :
 ##### 1 Grayscaling Images (Easier to apply Blur and edge detection on grayscaled image)
 ##### 2 Gaussian Blur (to reduce video & image noise)
